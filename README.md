@@ -8,10 +8,10 @@ To use, simply edit a Titanium JavaScript file, type in one of the templates ava
 http
 ```
 
-or
+or the "open-camera.js" template:
 
 ```
 open camera
 ```
 
-then select it and hit the shortcut key -- and it'll be replaced with the code sample.
+then select the text and hit the shortcut key -- and it'll be replaced with the code sample.
