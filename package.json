@@ -6,7 +6,12 @@
   "keywords": [
     "Titanium",
     "Alloy",
-    "Appcelerator"
+    "Appcelerator",
+    "ti-code-fetch",
+    "ti code fetch",
+    "titanium code",
+    "titanium code fetch",
+    "titanium templates"
   ],
   "activationCommands": {
     "atom-workspace": "ti-code-fetch:fetch"
