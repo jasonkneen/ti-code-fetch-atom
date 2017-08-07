@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "ti-code-fetch",
+        "label": "Titanium Code Fetch",
         "command": "ti-code-fetch:fetch"
       }
     ]
@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "ti-code-fetch",
+          "label": "Titanium Code Fetch",
           "submenu": [
             {
-              "label": "Fetch Ti Code",
+              "label": "Fetch",
               "command": "ti-code-fetch:fetch"
             }
           ]

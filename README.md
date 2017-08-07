@@ -1,5 +1,17 @@
-# ti-code-fetch package
+# Titanium Code Fetch Package
 
-A short description of your package.
+Fetches sample code from [http://github.com/jasonkneen/ti-code-fetch](http://github.com/jasonkneen/ti-code-fetch)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+To use, simply edit a Titanium JavaScript file, type in one of the templates available so if you wanted to load the "httpclient.js" template, just type:
+
+```
+http
+```
+
+or
+
+```
+take photo
+```
+
+then select it and hit the shortcut key -- and it'll be replaced with the code sample.
