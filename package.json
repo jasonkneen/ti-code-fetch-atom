@@ -1,13 +1,13 @@
 {
   "name": "ti-code-fetch",
   "main": "./lib/ti-code-fetch",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Fetches sample code templates",
   "keywords": ["Titanium", "Alloy", "Appcelerator"],
   "activationCommands": {
     "atom-workspace": "ti-code-fetch:fetch"
   },
-  "repository": "https://github.com/jasonkneen/ti-code-fetch-atom-plugin",
+  "repository": "https://github.com/jasonkneen/ti-code-fetch-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
