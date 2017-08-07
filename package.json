@@ -1,7 +1,7 @@
 {
   "name": "ti-code-fetch",
   "main": "./lib/ti-code-fetch",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Fetches sample code templates for Titanium Apps",
   "keywords": [
     "Titanium",
