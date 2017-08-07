@@ -11,7 +11,7 @@ http
 or
 
 ```
-take photo
+open camera
 ```
 
 then select it and hit the shortcut key -- and it'll be replaced with the code sample.
