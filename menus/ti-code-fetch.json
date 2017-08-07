@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "ti-code-fetch",
+        "command": "ti-code-fetch:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ti-code-fetch",
+          "submenu": [
+            {
+              "label": "Fetch Ti Code",
+              "command": "ti-code-fetch:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
