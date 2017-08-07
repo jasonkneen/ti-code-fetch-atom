@@ -2,6 +2,16 @@
 
 Fetches sample code from [http://github.com/jasonkneen/ti-code-templates](http://github.com/jasonkneen/ti-code-templates)
 
+Installation:
+
+Install from Atom -- search for "Ti-Code-Fetch" or run from the Terminal:
+
+```
+apm install ti-code-fetch
+```
+
+and restart Atom.
+
 [![Demo Video](https://raw.github.com/jasonkneen/ti-code-fetch-atom/master/resources/demo.gif)](https://raw.github.com/jasonkneen/ti-code-fetch-atom/master/resources/demo.gif)
 
 
@@ -17,4 +27,4 @@ or the "open-camera.js" template:
 open camera
 ```
 
-then select the text and hit the shortcut key -- and it'll be replaced with the code sample.
+then select the text and hit the shortcut key (Control+Option+H) -- and it'll be replaced with the code sample.
