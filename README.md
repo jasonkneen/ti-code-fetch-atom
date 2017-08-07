@@ -2,6 +2,8 @@
 
 Fetches sample code from [http://github.com/jasonkneen/ti-code-templates](http://github.com/jasonkneen/ti-code-templates)
 
+(PRs into the templates repo welcome!)
+
 Installation:
 
 Install from Atom -- search for "Ti-Code-Fetch" or run from the Terminal:
