@@ -1,6 +1,6 @@
 # Titanium Code Fetch Package
 
-Fetches sample code from [http://github.com/jasonkneen/ti-code-fetch](http://github.com/jasonkneen/ti-code-fetch)
+Fetches sample code from [http://github.com/jasonkneen/ti-code-fetch](http://github.com/jasonkneen/ti-code-templates)
 
 To use, simply edit a Titanium JavaScript file, type in one of the templates available so if you wanted to load the "http.js" template, just type:
 
