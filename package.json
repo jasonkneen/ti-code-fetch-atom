@@ -2,7 +2,7 @@
   "name": "ti-code-fetch",
   "main": "./lib/ti-code-fetch",
   "version": "0.0.0",
-  "description": "Fetches sample code templates",
+  "description": "Fetches sample code templates for Titanium Apps",
   "keywords": ["Titanium", "Alloy", "Appcelerator"],
   "activationCommands": {
     "atom-workspace": "ti-code-fetch:fetch"
